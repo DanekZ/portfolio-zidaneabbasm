@@ -1,6 +1,9 @@
 export const metadata = {
   title: "Zidane Portfolio",
   description: "Portofolio pribadi Zidane Abbas Mallaniung",
+  icons: {
+    icon: "/foto_wisuda_hitam_putih.jpg",
+  },
 };
 
 import "@/styles/globals.css";
